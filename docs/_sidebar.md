@@ -5,7 +5,7 @@
 * [Web Console](webconsole.md)
 * [Use cases](usecases.md)
 * [Scenarios](scenarios.md)
-* [IdM configuration](idm-configuration.md)
+* [IdM configuration](idmconfiguration.md)
 * [Roadmap](roadmap.md)
 * [Change log](changelog.md)
 * [Reference](reference.md)
